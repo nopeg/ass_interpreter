@@ -85,7 +85,7 @@
 
 Запуск программы осуществляется из командной строки:
 ```
-python assembler.py program.txt program.bin program_log.csv
+python ass.py program.txt program.bin program_log.csv
 python interpreter.py program.bin result.csv 0-31
 ```
 где:
