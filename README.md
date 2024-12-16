@@ -103,6 +103,7 @@ python -m unittest test_assembler.py test_interpreter.py
 
 ## Результат юнит-тестов программы
 
+![img.png](images/tests.png)
 
 ## Результат работы программы
 
