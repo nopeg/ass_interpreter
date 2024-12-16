@@ -104,5 +104,8 @@ python -m unittest test_assembler.py test_interpreter.py
 ## Результат юнит-тестов программы
 
 
-
 ## Результат работы программы
+
+![img.png](images/ass.png)
+
+![img.png](images/interpreter.png)
